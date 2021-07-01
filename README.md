@@ -1,7 +1,9 @@
-## Rename Bot - Clone of  [AnyDLBot](https://telegram.dog/AnyDLBot)
----
+## AnonRename 
 
-An Open Source Rename Telegram RoBot
+Simple telegram bot can rename files you sent 
+
+*Clone of  [AnyDLBot](https://telegram.dog/AnyDLBot)*
+
 
 **My Feature**:
 
