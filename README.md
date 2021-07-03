@@ -14,8 +14,6 @@ Simple telegram bot can rename files you sent
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/roobini-gamer/AnonRename/tree/master)
 
-**upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
-
 ### run locally 
 
 ```sh
